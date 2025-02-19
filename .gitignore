@@ -1,0 +1,24 @@
+# Byggresultat
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio filer
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# MonoGame-specifika
+*.mgcb
+*.cachefile
+/CompiledContent/
+
+# OS-genererade filer
+Thumbs.db
+.DS_Store
+
+# Loggfiler
+*.log
